@@ -61,15 +61,16 @@ export default {
 
 <style scoped>
 input {
+  font-size: 25px;
   width: 100%;
-  margin: 0 30px;
+  margin: 0 100px;
   border: none;
-  background-color: lightgrey;
+  background-color: #66c5ed;
 }
 
 .card {
   border-radius: 5px;
-  background-color: white;
+  background-color: #fcd26f;
   margin: 5px;
 }
 
@@ -82,8 +83,8 @@ input {
 .card-content {
   width: 150px;
   border: 1px solid;
-  border-color: gray;
-  box-shadow: 1px 1px grey;
+  border-color: #f0a10e;
+  box-shadow: 1px 1px #ff2a1f;
   border-radius: 5px;
   text-align: center;
   padding: 0 50px;
